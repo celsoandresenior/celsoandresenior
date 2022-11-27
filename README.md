@@ -7,7 +7,7 @@
 ##
 ![Celso André's GitHub stats](https://github-readme-stats.vercel.app/api?username=celsoandresenior&show_icons=true&theme=dracula)
 
-## Téconologias do meu dia dia 💻
+## Técnologias do meu dia dia 💻
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
